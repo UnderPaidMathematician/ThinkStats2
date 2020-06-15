@@ -12,6 +12,9 @@ import pandas
 
 import thinkplot
 import thinkstats2
+import nsfg
+
+
 
 
 def Clean(s):
@@ -62,6 +65,9 @@ def ReadData(filename='hinc06.csv'):
 def main():
     df = ReadData()
     print(df)
+    df = nsfg.ReadFemPreg()
+    print(df.shape)
+    
 
 
 if __name__ == "__main__":

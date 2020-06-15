@@ -15,6 +15,7 @@ import thinkstats2
 
 
 def main(script):
+
     """Tests the functions in this module.
 
     script: string script name
