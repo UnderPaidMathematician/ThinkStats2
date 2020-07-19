@@ -8,13 +8,12 @@ License: GNU GPLv3 http://www.gnu.org/licenses/gpl.html
 from __future__ import print_function
 
 import sys
-import numpy as np
-import math
 
 import first
+import numpy as np
+
 import thinkplot
 import thinkstats2
-
 
 """This file contains a solution to an exercise in Think Stats:
 

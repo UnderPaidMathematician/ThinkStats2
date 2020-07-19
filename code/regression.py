@@ -7,19 +7,15 @@ License: GNU GPLv3 http://www.gnu.org/licenses/gpl.html
 
 from __future__ import print_function, division
 
-import math
-import pandas
-import patsy
-import random
-import numpy as np
-import statsmodels.api as sm
-import statsmodels.formula.api as smf
 import re
 
 import chap01soln
 import first
-import linear
-import thinkplot
+import numpy as np
+import pandas
+import patsy
+import statsmodels.formula.api as smf
+
 import thinkstats2
 
 

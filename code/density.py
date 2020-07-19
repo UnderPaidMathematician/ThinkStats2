@@ -12,8 +12,9 @@ import random
 
 import brfss
 import first
-import thinkstats2
+
 import thinkplot
+import thinkstats2
 
 
 def Summarize(data):

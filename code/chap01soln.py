@@ -7,10 +7,10 @@ License: GNU GPLv3 http://www.gnu.org/licenses/gpl.html
 
 from __future__ import print_function, division
 
-import numpy as np
 import sys
 
 import nsfg
+
 import thinkstats2
 
 

@@ -9,10 +9,10 @@ from __future__ import print_function, division
 
 import math
 
+import nsfg
 import numpy as np
 import pandas
 
-import nsfg
 import thinkplot
 import thinkstats2
 

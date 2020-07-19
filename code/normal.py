@@ -8,14 +8,15 @@ License: GNU GPLv3 http://www.gnu.org/licenses/gpl.html
 from __future__ import print_function, division
 
 import math
-import numpy as np
 import random
-import scipy.stats
 
 import first
 import hypothesis
-import thinkstats2
+import numpy as np
+import scipy.stats
+
 import thinkplot
+import thinkstats2
 
 
 class Normal(object):

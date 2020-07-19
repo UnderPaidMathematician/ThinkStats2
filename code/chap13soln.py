@@ -7,12 +7,12 @@ License: GNU GPLv3 http://www.gnu.org/licenses/gpl.html
 
 from __future__ import print_function
 
-import pandas
 import numpy as np
+import pandas
+import survival
 
 import thinkplot
 import thinkstats2
-import survival
 
 
 def CleanData(resp):

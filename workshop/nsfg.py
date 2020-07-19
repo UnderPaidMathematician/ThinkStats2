@@ -7,9 +7,10 @@ License: GNU GPLv3 http://www.gnu.org/licenses/gpl.html
 
 from __future__ import print_function
 
-from collections import defaultdict
-import numpy as np
 import sys
+from collections import defaultdict
+
+import numpy as np
 
 import thinkstats2
 

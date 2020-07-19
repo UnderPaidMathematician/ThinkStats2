@@ -7,12 +7,13 @@ License: GNU GPLv3 http://www.gnu.org/licenses/gpl.html
 
 from __future__ import print_function, division
 
-import thinkstats2
-import thinkplot
-
 import math
 import random
+
 import numpy as np
+
+import thinkplot
+import thinkstats2
 
 
 def MeanError(estimates, actual):

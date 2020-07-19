@@ -7,9 +7,6 @@ License: GNU GPLv3 http://www.gnu.org/licenses/gpl.html
 
 from __future__ import print_function
 
-import csv
-import logging
-import sys
 import numpy as np
 import pandas
 

@@ -7,12 +7,11 @@ License: GNU GPLv3 http://www.gnu.org/licenses/gpl.html
 
 from __future__ import print_function, division
 
-import pandas
+import matplotlib.pyplot as pyplot
 import numpy as np
+import pandas
 import statsmodels.formula.api as smf
 import statsmodels.tsa.stattools as smtsa
-
-import matplotlib.pyplot as pyplot
 
 import thinkplot
 import thinkstats2

@@ -9,11 +9,9 @@ from __future__ import print_function, division
 
 import first
 import hypothesis
-import scatter
-import thinkstats2
-
 import numpy as np
 
+import thinkstats2
 
 """This file contains a solution to exercises in Think Stats:
 

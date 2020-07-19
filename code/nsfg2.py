@@ -11,6 +11,7 @@ import numpy as np
 
 import thinkstats2
 
+
 def MakeFrames():
     """Reads pregnancy data and partitions first babies and others.
 

@@ -7,14 +7,14 @@ License: GNU GPLv3 http://www.gnu.org/licenses/gpl.html
 
 from __future__ import print_function, division
 
-import pandas
 import numpy as np
+import pandas
+import regression
 import statsmodels.formula.api as smf
+import timeseries
 
 import thinkplot
 import thinkstats2
-import regression
-import timeseries
 
 
 def RunQuadraticModel(daily):

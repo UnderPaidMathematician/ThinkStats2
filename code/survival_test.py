@@ -8,10 +8,9 @@ License: GNU GPLv3 http://www.gnu.org/licenses/gpl.html
 from __future__ import print_function, division
 
 import unittest
+
 import survival
 
-import thinkstats2
-import thinkplot
 
 class Test(unittest.TestCase):
 

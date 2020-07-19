@@ -7,10 +7,10 @@ License: GNU GPLv3 http://www.gnu.org/licenses/gpl.html
 
 from __future__ import print_function
 
-import numpy as np
-
 import density
 import hinc
+import numpy as np
+
 import thinkplot
 import thinkstats2
 
@@ -84,7 +84,7 @@ def InterpolateSample(df, log_upper=6.0):
     # each range
     arrays = []
     for _, row in df.iterrows():
-        vals = np.linspace(row.log_lower, row.log_upper, row.freq)
+        vals = np.linspace(int(row.log_lower), int(row.log_upper), int(row.freq))
         arrays.append(vals)
 
     # collect the arrays into a single sample

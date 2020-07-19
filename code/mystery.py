@@ -7,10 +7,11 @@ License: GNU GPLv3 http://www.gnu.org/licenses/gpl.html
 
 from __future__ import print_function
 
-
 import random
+
 import numpy as np
 import scipy.stats
+
 
 def write_sample(sample, filename):
     """Write a sequence of floats to a file.

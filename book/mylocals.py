@@ -5,7 +5,7 @@ make plastex
 
 """
 
-from plasTeX import Command, Environment
+from plasTeX import Environment
 
 class exercise(Environment):
     pass

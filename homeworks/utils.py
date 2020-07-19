@@ -1,8 +1,9 @@
-import pandas as pd
-import numpy as np
-import matplotlib.pyplot as plt
-
 import re
+
+import matplotlib.pyplot as plt
+import numpy as np
+import pandas as pd
+
 
 class FixedWidthVariables(object):
     """Represents a set of variables in a fixed width file."""

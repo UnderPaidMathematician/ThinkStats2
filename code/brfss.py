@@ -9,11 +9,12 @@ from __future__ import print_function, division
 
 import math
 import sys
-import pandas
-import numpy as np
 
-import thinkstats2
+import numpy as np
+import pandas
+
 import thinkplot
+import thinkstats2
 
 
 def Summarize(df, column, title):

@@ -7,14 +7,15 @@ License: GNU GPLv3 http://www.gnu.org/licenses/gpl.html
 
 from __future__ import print_function, division
 
-import unittest
 import random
-
+import unittest
 from collections import Counter
+
 import numpy as np
 
-import thinkstats2
 import thinkplot
+import thinkstats2
+
 
 class Test(unittest.TestCase):
 

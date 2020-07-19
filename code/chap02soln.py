@@ -11,6 +11,7 @@ import sys
 from operator import itemgetter
 
 import first
+
 import thinkstats2
 
 

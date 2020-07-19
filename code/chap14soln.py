@@ -7,13 +7,14 @@ License: GNU GPLv3 http://www.gnu.org/licenses/gpl.html
 
 from __future__ import print_function, division
 
-import numpy as np
 import random
 
 import first
 import normal
-import thinkstats2
+import numpy as np
+
 import thinkplot
+import thinkstats2
 
 
 def PlotPregLengths(live, firsts, others):

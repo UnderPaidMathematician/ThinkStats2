@@ -7,14 +7,9 @@ License: GNU GPLv3 http://www.gnu.org/licenses/gpl.html
 
 from __future__ import print_function, division
 
+import nsfg
 import numpy as np
 import pandas
-
-import thinkplot
-import thinkstats2
-import nsfg
-
-
 
 
 def Clean(s):

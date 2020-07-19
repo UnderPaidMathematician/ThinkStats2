@@ -8,9 +8,9 @@ License: GNU GPLv3 http://www.gnu.org/licenses/gpl.html
 from __future__ import print_function
 
 import sys
-from operator import itemgetter
 
 import first
+
 import thinkstats2
 
 

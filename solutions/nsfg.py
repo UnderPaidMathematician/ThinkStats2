@@ -7,11 +7,11 @@ License: GNU GPLv3 http://www.gnu.org/licenses/gpl.html
 
 from __future__ import print_function, division
 
-import sys
-import numpy as np
-import thinkstats2
-
 from collections import defaultdict
+
+import numpy as np
+
+import thinkstats2
 
 
 def ReadFemResp(dct_file='2002FemResp.dct',

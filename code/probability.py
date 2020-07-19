@@ -7,13 +7,11 @@ License: GNU GPLv3 http://www.gnu.org/licenses/gpl.html
 
 from __future__ import print_function
 
-import math
+import first
 import numpy as np
 
-import nsfg
-import first
-import thinkstats2
 import thinkplot
+import thinkstats2
 
 
 def MakeHists(live):

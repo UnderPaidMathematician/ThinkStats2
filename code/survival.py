@@ -8,15 +8,14 @@ License: GNU GPLv3 http://www.gnu.org/licenses/gpl.html
 
 from __future__ import print_function, division
 
+from collections import Counter
+
+import nsfg
 import numpy as np
 import pandas as pd
 
-import nsfg
-
-import thinkstats2
 import thinkplot
-
-from collections import Counter
+import thinkstats2
 
 FORMATS = ['pdf', 'eps', 'png']
 

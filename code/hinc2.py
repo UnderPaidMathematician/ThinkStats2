@@ -7,9 +7,9 @@ License: GNU GPLv3 http://www.gnu.org/licenses/gpl.html
 
 from __future__ import print_function
 
+import hinc
 import numpy as np
 
-import hinc
 import thinkplot
 import thinkstats2
 
